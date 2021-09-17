@@ -1253,7 +1253,7 @@ Codeless drop-in universal library allows to prevent issues of keyboard sliding 
                                     
                                     if scrollView is UITableView || scrollView is UICollectionView {
                                         //This will update the next/previous states
-                                        self.addToolbarIfRequired()
+                                        //self.addToolbarIfRequired()
                                     }
                                 }
                             }
